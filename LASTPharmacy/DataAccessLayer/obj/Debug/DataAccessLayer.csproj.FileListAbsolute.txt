@@ -1,0 +1,8 @@
+C:\Users\oneil\Source\Repos\LASTPharmacy\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\oneil\Source\Repos\LASTPharmacy\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\oneil\Source\Repos\LASTPharmacy\DataAccessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\oneil\Source\Repos\LASTPharmacy\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\oneil\Source\Repos\LASTPharmacy\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\oneil\Source\Repos\LASTPharmacy\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\oneil\Source\Repos\LASTPharmacy\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\oneil\Source\Repos\LASTPharmacy\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

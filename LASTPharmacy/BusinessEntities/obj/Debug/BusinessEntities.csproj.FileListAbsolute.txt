@@ -1,0 +1,6 @@
+C:\Users\oneil\Source\Repos\LASTPharmacy\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\oneil\Source\Repos\LASTPharmacy\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\oneil\Source\Repos\LASTPharmacy\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\oneil\Source\Repos\LASTPharmacy\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\oneil\Source\Repos\LASTPharmacy\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\oneil\Source\Repos\LASTPharmacy\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
